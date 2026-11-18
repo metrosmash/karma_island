@@ -1,0 +1,6 @@
+{
+  "name": "Karma Island",
+  "description": "Top-down retro RPG island survival and karma economy sandbox built with Phaser 3 and a pure JavaScript simulation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
